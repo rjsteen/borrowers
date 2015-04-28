@@ -20,6 +20,7 @@
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.0",
+    "connect-restreamer": "^1.0.2",
     "ember-browserify": "0.6.4",
     "ember-cli": "0.2.3",
     "ember-cli-app-version": "0.3.2",
@@ -34,7 +35,10 @@
     "ember-computed-change-gate": "0.0.3",
     "ember-data": "1.0.0-beta.16.1",
     "ember-export-application-global": "^1.0.2",
-    "moment": "^2.10.2"
+    "express": "^4.12.3",
+    "glob": "^4.5.3",
+    "moment": "^2.10.2",
+    "morgan": "^1.5.2"
   },
   "dependencies": {
     "ember-cli-fill-murray-rjsteen": "^0.1.0"
